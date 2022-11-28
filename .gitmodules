@@ -1,0 +1,4 @@
+[submodule "eduwebgroup/edoob"]
+	path = eduwebgroup/edoob
+	url = git@github.com:eduwebgroup/edoob.git
+	branch = 15.0
