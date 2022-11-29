@@ -12,3 +12,8 @@
 	path = eduwebgroup/edoob_facts
 	url = git@github.com:eduwebgroup/edoob_facts.git
 	branch = 15.0
+
+[submodule "eduwebgroup/sincro_data_base"]
+	path = eduwebgroup/sincro_data_base
+	url = git@github.com:eduwebgroup/sincro_data_base.git
+	branch = 15.0
