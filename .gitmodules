@@ -7,3 +7,8 @@
 	path = eduwebgroup/edoob_finance
 	url = git@github.com:eduwebgroup/edoob_finance.git
 	branch = 15.0
+
+[submodule "eduwebgroup/edoob_facts"]
+	path = eduwebgroup/edoob_facts
+	url = git@github.com:eduwebgroup/edoob_facts.git
+	branch = 15.0
